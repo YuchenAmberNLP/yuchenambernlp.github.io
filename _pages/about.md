@@ -70,6 +70,6 @@ My research interest includes **model interpretability and trustworthy AI**, **m
 [//]: # (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)
 
 # ✨ Hobbies
-I enjoy playing the piano and jazz drums, and am currently learning to compose and arrange my own songs. I am a big fan of CantoPop. I also have a passion for stage planning and management, enjoying the behind-the-scenes work that brings performances to life. I love learning languages, I love learning languages, and have interest in historical linguistics and theoretical linguistics. I am also a bouldering enthusiast.
+I enjoy playing the piano and jazz drums, and am currently learning to compose and arrange my own songs. I am a big fan of CantoPop. I also have a passion for stage planning and management, enjoying the behind-the-scenes work that brings performances to life. I love learning languages, and have interest in historical linguistics and theoretical linguistics. I am also a bouldering enthusiast.
 
 
