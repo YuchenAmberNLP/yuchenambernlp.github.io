@@ -20,7 +20,7 @@ redirect_from:
 Hi, I am Yuchen (Amber) Mao. I am currently a master's student at the [Center for Information and Language Processing (CIS)](https://www.cis.uni-muenchen.de/ueber_uns/index.html) at Ludwig Maximilian University of Munich (LMU), specializing in **Computational Linguistics**. Before that, I earned a Bachelor’s degree in Law from Peking University Law School. From June to August 2024, I worked as a research assistant at the [**XLANG Lab**](https://www.xlang.ai/) at the **University of Hong Kong** under the supervision of **Professor Tao Yu**, focusing on VLM digital agents and their applications in real-world computer environments. Starting in October 2024, I will continue my research journey at the **MaiNLP Lab** at LMU Munich.    
 
 
-My research interest includes **low resource language processing**, **legal NLP**, and **LLM/VLM agents**.
+My research interest includes **model interpretability and trustworthy AI**, **multi-lingual NLP**, **LLM/VLM agents**, **legal NLP**, as well as **text summarization**, **semantic parsing in sentence and discourse**, and **information retrieval**.
 
 
 # 🔥 News
@@ -33,7 +33,7 @@ My research interest includes **low resource language processing**, **legal NLP*
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Spotlight</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
 
 [//]: # (<div class='paper-box-text' markdown="1">)
-
+- **ICLR 2025 Spotlight**: [*AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials*](https://arxiv.org/abs/2412.09605)
 - **NeurIPS 2024 Spotlight**: [*Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?*](https://arxiv.org/abs/2407.10956) 
 
 [//]: # (**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun)
@@ -70,6 +70,6 @@ My research interest includes **low resource language processing**, **legal NLP*
 [//]: # (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)
 
 # ✨ Hobbies
-I enjoy playing the piano and am currently learning to compose and arrange my own songs. I am a big fan of CantoPop. I also have a passion for stage planning and management, enjoying the behind-the-scenes work that brings performances to life. I am also a bouldering enthusiast.
+I enjoy playing the piano and jazz drums, and am currently learning to compose and arrange my own songs. I am a big fan of CantoPop. I also have a passion for stage planning and management, enjoying the behind-the-scenes work that brings performances to life. I love learning languages, I love learning languages, and have interest in historical linguistics and theoretical linguistics. I am also a bouldering enthusiast.
 
 
